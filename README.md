@@ -8,17 +8,17 @@ Research Workflow
 
 The strategy testing framework includes:
 
-historical data collection
+- historical data collection
 
-indicator calculation
+- indicator calculation
 
-rule-based strategy design
+- rule-based strategy design
 
-parameter sweeps
+- parameter sweeps
 
-automated backtesting
+- automated backtesting
 
-trade-level performance analysis
+- trade-level performance analysis
 
 Current Strategy
 
@@ -28,21 +28,21 @@ Strategy logic:
 
 Entry
 
-MACD crossover
+- MACD crossover
 
-price above EMA trend filter
+- price above EMA trend filter
 
 Exit
 
-opposite signal or momentum reversal
+- opposite signal or momentum reversal
 
 Key Findings
 
-best parameters identified through parameter testing
+- best parameters identified through parameter testing
 
-win rate approximately 56%
+- win rate approximately 56%
 
-strongest performance on GBP and JPY pairs
+- strongest performance on GBP and JPY pairs
 
 Tools
 
